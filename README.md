@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer based in Rwanda
 - 💞️ I’m looking to collaborate on community-focused web apps, education tools, and JavaScript-based projects.
 - 📫 How to reach me:  
   - Email: michelmunezero25@gmail.com 
-  - LinkedIn: 
+  - LinkedIn: http://linkedin.com/in/michelmunezero
   - Twitter: @lehcimunna
 
 - 😄 Pronouns: He/Him
