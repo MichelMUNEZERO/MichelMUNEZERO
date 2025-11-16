@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer based in Rwanda
   - Twitter: @lehcimunna
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a proud Rwandan 🇷🇼 who enjoys blending tech skills with community service—and I’m always up for a coding challenge!
+- ⚡ Fun fact: I'm a proud Rwandan 🇷🇼 who enjoys blending tech skills with community service and I’m always up for a coding challenge!
 
 Let’s connect, share ideas, and build something amazing together 💻🚀
