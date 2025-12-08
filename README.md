@@ -40,7 +40,6 @@ I'm interested in contributing to:
 
 ## Connect With Me
 
-- ✉️ **Email:** michelmunezero25@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/michelmunezero](http://linkedin.com/in/michelmunezero)
 - 🐦 **Twitter:** [@lehcimunna](https://twitter.com/lehcimunna)
 
